@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlbertoBrigato
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning javascript, php and Wordpress
+- 🌱 I’m currently learning Javascript, PHP, Laravel and Wordpress
 - 📫 How to reach me at alberto.brigato00@gmail.com
 
 <!---
