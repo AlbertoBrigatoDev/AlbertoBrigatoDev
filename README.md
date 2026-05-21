@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlbertoBrigato
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Javascript, PHP 
+- 🌱 I’m currently learning Javascript, PHP. I work with Dotnet - vbnet & c#.
 - 📫 How to reach me at alberto.brigato000@gmail.com
 
 <!---
